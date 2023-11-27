@@ -1,0 +1,67 @@
+body{
+    font-family: 'Ephesis', cursive;
+    line-height: 150px;
+    font-size: 40px;
+    font-weight:bolder;
+    
+}
+html{
+    background-image:url('bg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    bottom: 0;
+    right: 0%;
+    text-align: center;
+}
+img{
+    height: 80px;
+    width: 170px;
+}
+
+h1{
+    text-shadow: 2px 1px 2px grey;
+    font-size: 50px;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    position: absolute;
+    top:90px;
+    left:200px;
+    right:200px;
+}
+p{
+    font-size: 40px;
+}
+h2{
+    font-size: 60px;
+    padding-top: 0%;
+    line-height: 30px;
+}
+.friend{
+    text-shadow: 2px 3px 2px purple;
+}
+form{
+    font-size: 20px;
+    font-family: 'Times New Roman', cursive;
+    width: 850px;
+    line-height: 90px;
+    position: fixed;
+    text-align: center;
+    padding-top: 120px;
+    padding-left: 250px;
+    align-items: center;
+}
+button{
+    background-color: rgb(243, 130, 184);
+    padding: 10px;
+    text-shadow: 1px 1px 1px black;
+    line-height: 10px;
+    display: block;
+    text-align: center;
+    border-radius: 10px;
+    position: absolute;
+    left:650px;
+}
